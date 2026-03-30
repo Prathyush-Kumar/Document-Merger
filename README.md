@@ -1,4 +1,4 @@
-# 📄 PDF Merger
+# 📄 Document Merger
 
 A simple Windows desktop utility to merge multiple **PDF** and **DOCX** files into a single PDF — with a clean GUI powered by Tkinter.
 
